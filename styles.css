@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&family=Inter:wght@200;300;400&display=swap');
+
+/* font-family: 'Fraunces', serif;
+font-family: 'Inter', sans-serif; */
+
+body {
+    background-color: #F8EEE3;
+}
+
+li {
+    font-size: 1rem;
+    font-family: 'Inter', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.title {
+    font-family: 'Fraunces', sans-serif;
+    color: #444342;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
