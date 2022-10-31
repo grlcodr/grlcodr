@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm grlcodr</h1>
+<h1 align="center">Hey there 👋🚀💫</h1>
 <h3 align="center">A passionate, creative frontend developer from the UK!</h3>
 
 - 🔭 I’m currently working on [pico-pomodoro](https://github.com/grlcodr/pico-pomodoro)
