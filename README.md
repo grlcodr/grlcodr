@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Python, MicroPython, React**
 
-- 📫 How to reach me **rachael@grlcodr.dev**
+- 📫 Drop me a message! **rachael@grlcodr.dev**
 
-- ⚡ Fun fact **All the electricity powering the internet weighs the same as an apricot.**
+- ⚡ Fun fact: **All the electricity powering the internet weighs the same as an apricot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
